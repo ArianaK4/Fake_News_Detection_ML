@@ -10,8 +10,8 @@ and cleaning the text data by removing stop words, punctuation, and special char
 articles in the dataset;
 - Model Selection: for model selection we will use some supervised algorithms and also deep learning. Supervised
 models that we will use include: Linear Regression, Random Forest, Decision Tree, Naive-Bayes, Support Vector 
-Machines (SVMs), and Deep Neural Networks (DNNs)??;
-- Model Training: Split the preprocessed data into training and testing sets and train the selected model on the 
+Machines (SVMs), and Deep Neural Networks (DNNs);
+- Model Training: for model training we will split the preprocessed data into training and testing sets and train the selected model on the 
 training data;
-- Model Evaluation: Evaluate the performance of the trained model on the testing data using metrics such as 
+- Model Evaluation: we will evaluate the performance of the trained model on the testing data using metrics such as 
 accuracy, precision, recall, and F1-score.
